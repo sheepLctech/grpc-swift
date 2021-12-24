@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name = 'gRPC-Swift'
-    s.module_name = 'GRPC_Swift'
+    s.module_name = 'GRPCSwift'
     s.version = '1.6.0'
     s.license = { :type => 'Apache 2.0', :file => 'LICENSE' }
     s.summary = 'Swift gRPC code generator plugin and runtime library'
